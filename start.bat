@@ -1,0 +1,1 @@
+mvn clean test exec:java -q -Dexec.mainClass=Execute -Dexec.args="country='US' device='iPhone 4 OR Galaxy S3'"
